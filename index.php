@@ -1,24 +1,19 @@
 <!DOCTYPE html>
 <!--
-Amir Mokhatr Ali
-HUID 70922584
-amirmokhtar@g.harvard.edu
-CSCI E-15
-Assignment One
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
 -->
 <!doctype html>
 <!DOCTYPE html>
 <html>
     <head>
         <title>Harvard CSCI E15 Assignment 1</title>
-        <?php include("includes/htmlhead.php"); ?>   
+        <?php include("includes/header.php"); ?>
     </head>
     <body>
-        <?php include("includes/header.php"); ?>
         <?php include("includes/myimage.php"); ?>
-        <hr>
         <?php include("includes/aboutme.php"); ?>
-        <hr>
         <?php include("includes/quote.php"); ?>
         <div>
             <footer>
