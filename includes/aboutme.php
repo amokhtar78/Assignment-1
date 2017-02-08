@@ -16,10 +16,10 @@
     
     <h3>My Work Experience and why I am taking this class</h3>
     <p class="blocktext">
-    I worked As an Engineer, Financier, Marketer, Business development, and a Teacher.
-    I am a retired Business development Engineer and currently developing an algae farm.
-    I am currently enrolled in the Mathematics for teaching masters program at HES.
-    This class is my last elective in the program.
+    I worked As an Engineer, Financier, Marketer, Business development, and a Teacher.<br />
+    I am a retired Business development Engineer and currently developing an algae farm.<br />
+    I am currently enrolled in the Mathematics for teaching masters program at HES.<br />
+    This class is my last elective in the program.<br />
     I expect to complete my degree by next summer, God Willing.
     </P>
 </div>
