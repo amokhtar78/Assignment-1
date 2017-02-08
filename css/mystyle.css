@@ -1,7 +1,31 @@
 @charset "utf-8";
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 1em;
+    background-color: Azure;
+    margin-left: 2em;
+}
+h1 {
+    font-size: 2.5em;
+    color: ;
+  }
+h2 {
+    font-size: 2em;
+    color: crimson;
+}
+h3 {
+    font-size: 1.5em;
+    color: brown;
+}
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 48em
+}
 
-header {margin-top: 1em;}
-header h1 { padding-left: 160px; padding-top: 20px; background-image: url(../images/flag.gif); background-repeat: no-repeat; background-position: left; min-height: 70px; background-color: #eeeeff;}
-
-footer { font-size: smaller; background-color: #eeeeff;}
+footer { font-size: smaller;}
 footer p { padding: 1em; }
+
+#myimage{
+    margin-left: 3em;
+}
