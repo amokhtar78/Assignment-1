@@ -6,7 +6,7 @@ amirmokhtar@g.harvard.edu
 CSCI E-15
 Assignment One
 -->
-<html>
+<html lang="en">
     <head>
         <title>Harvard CSCI E15 Assignment 1</title>
         <?php include("includes/htmlhead.php"); ?>   
