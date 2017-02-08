@@ -4,3 +4,4 @@
     This is your receipt for your husband and this is my receipt for your receipt.
     Officer, Brazil
 </p>
+</div>

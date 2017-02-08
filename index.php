@@ -18,11 +18,9 @@ Assignment One
         <?php include("includes/aboutme.php"); ?>
         <hr>
         <?php include("includes/quote.php"); ?>
-        <div>
-            <footer>
-                <?php include("includes/footer.php"); ?>
-            </footer>
-        </div>
 
+        <footer>
+            <?php include("includes/footer.php"); ?>
+        </footer>
     </body>
 </html>

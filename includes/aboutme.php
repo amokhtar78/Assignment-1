@@ -22,3 +22,4 @@
     This class is my last elective in the program.
     I expect to complete my degree by next summer, God Willing.
     </P>
+</div>
